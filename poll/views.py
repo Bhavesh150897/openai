@@ -1,7 +1,7 @@
 from django.shortcuts import render
 import openai
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 model_engine = "text-davinci-003"
 
